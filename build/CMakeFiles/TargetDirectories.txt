@@ -1,0 +1,3 @@
+C:/Users/client/Downloads/oui-blendish/build/CMakeFiles/example.dir
+C:/Users/client/Downloads/oui-blendish/build/CMakeFiles/edit_cache.dir
+C:/Users/client/Downloads/oui-blendish/build/CMakeFiles/rebuild_cache.dir
